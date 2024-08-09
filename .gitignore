@@ -1,0 +1,6 @@
+.vscode
+dockerTest/.git
+dockerTest/*
+my_events/*
+my_events/.git
+vv_events/*
